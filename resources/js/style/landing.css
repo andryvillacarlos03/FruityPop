@@ -1,0 +1,27 @@
+  .fruite-item {
+                height: 100%;
+            }
+
+            .fruite-img {
+              height: 200px; /* Adjust as needed */
+              overflow: hidden;
+              border-top-left-radius: 0.5rem;
+              border-top-right-radius: 0.5rem;
+             }
+
+        .fruite-img img {
+          height: 100%;
+          width: 100%;
+          object-fit: cover;
+        }
+
+        .vesitable-item .p-4 {
+          min-height: 200px; /* adjust as needed */
+        }
+
+        .vesitable-item p {
+          display: -webkit-box;
+          -webkit-line-clamp: 4; /* max 2 lines */
+          -webkit-box-orient: vertical;
+          overflow: hidden;
+        }

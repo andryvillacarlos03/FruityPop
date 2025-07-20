@@ -1,0 +1,234 @@
+[
+  {
+    "name": "Orange",
+    "category": "Citrus",
+    "image": "../../../landing/img/fruite-item-1.jpg",
+    "pricePerKg": 3.99,
+    "description": "Bright, juicy, and full of vitamin C — a zesty burst of freshness in every peel."
+  },
+  {
+    "name": "Lime",
+    "category": "Citrus",
+    "image": "../../../landing/img/fruite-item-8.jpg",
+    "pricePerKg": 2.99,
+    "description": "Small but bold — a tangy twist that livens up any flavor."
+  },
+  {
+    "name": "Lemon",
+    "category": "Citrus",
+    "image": "../../../landing/img/fruite-item-9.jpg",
+    "pricePerKg": 5.99,
+    "description": "Zingy and refreshing — perfect for drinks, dressings, and detoxing your day."
+  },
+  {
+    "name": "Tangerine",
+    "category": "Citrus",
+    "image": "../../../landing/img/fruite-item-10.jpg",
+    "pricePerKg": 6.99,
+    "description": "Easy to peel and naturally sweet — the perfect snack-sized citrus."
+  },
+  {
+    "name": "Calamansi",
+    "category": "Citrus",
+    "image": "../../../landing/img/fruite-item-11.jpg",
+    "pricePerKg": 7.99,
+    "description": "Tiny, tart, and packed with punch — a Filipino favorite for zest and zing."
+  },
+  {
+    "name": "Pomelo",
+    "category": "Citrus",
+    "image": "../../../landing/img/fruite-item-12.jpg",
+    "pricePerKg": 8.99,
+    "description": "Sweet, mild, and juicy — a giant citrus with gentle flavor."
+  },
+  {
+    "name": "Grapefruit",
+    "category": "Citrus",
+    "image": "../../../landing/img/fruite-item-13.png",
+    "pricePerKg": 9.99,
+    "description": "Bittersweet and juicy — a bold citrus that's refreshing and energizing."
+  },
+  {
+    "name": "Mandarin",
+    "category": "Citrus",
+    "image": "../../../landing/img/fruite-item-15.jpg",
+    "pricePerKg": 10.99,
+    "description": "Soft, sweet, and kid-friendly — citrus made simple and delicious."
+  },
+  {
+    "name": "Mango",
+    "category": "Tropical",
+    "image": "../../../landing/img/fruite-item-16.jpg",
+    "pricePerKg": 5.99,
+    "description": "Golden, juicy, and irresistibly sweet — the true taste of the tropics."
+  },
+  {
+    "name": "Pineapple",
+    "category": "Tropical",
+    "image": "../../../landing/img/fruite-item-7.jpg",
+    "pricePerKg": 10.99,
+    "description": "Tropical, tangy, and refreshingly sweet — a juicy bite of sunshine in every slice."
+  },
+  {
+    "name": "Banana",
+    "category": "Tropical",
+    "image": "../../../landing/img/fruite-item-17.jpg",
+    "pricePerKg": 15.99,
+    "description": "Soft, creamy, and naturally energizing — the perfect go-anywhere snack."
+  },
+  {
+    "name": "Papaya",
+    "category": "Tropical",
+    "image": "../../../landing/img/fruite-item-18.jpg",
+    "pricePerKg": 12.99,
+    "description": "Smooth and mellow with a tropical twist — perfect for digestion and delight."
+  },
+  {
+    "name": "Coconut",
+    "category": "Tropical",
+    "image": "../../../landing/img/fruite-item-19.jpg",
+    "pricePerKg": 7.88,
+    "description": "Hydrating and versatile — from refreshing water to creamy meat."
+  },
+  {
+    "name": "Dragon Fruit",
+    "category": "Tropical",
+    "image": "../../../landing/img/fruite-item-20.jpg",
+    "pricePerKg": 10.99,
+    "description": "Vibrant, mildly sweet, and rich in nutrients — exotic beauty in every bite."
+  },
+  {
+    "name": "Guava",
+    "category": "Tropical",
+    "image": "../../../landing/img/fruite-item-21.jpg",
+    "pricePerKg": 10.99,
+    "description": "Fragrant, fruity, and full of fiber — sweet tropical goodness from the inside out."
+  },
+  {
+    "name": "Jackfruit",
+    "category": "Tropical",
+    "image": "../../../landing/img/fruite-item-22.jpg",
+    "pricePerKg": 18.99,
+    "description": "Sweet, fibrous, and filling — nature’s meat substitute with a fruity twist."
+  },
+   {
+    "name": "Water Melon",
+    "category": "Melons",
+    "image": "../../../landing/img/fruite-item-23.jpg",
+    "pricePerKg": 18.99,
+    "description": "Cool, crisp, and hydrating — summer’s favorite fruit in every bite."
+  },
+  {
+    "name": "Cantaloupe",
+    "category": "Melons",
+    "image": "../../../landing/img/fruite-item-24.jpg",
+    "pricePerKg": 12.99,
+    "description": "Fragrant and orange-fleshed — juicy sweetness with every spoonful."
+  },
+  {
+    "name": "Honeydew",
+    "category": "Melons",
+    "image": "../../../landing/img/fruite-item-25.jpg",
+    "pricePerKg": 18.99,
+    "description": "Light green and ultra-refreshing — a mellow melon for any moment."
+  },
+  {
+    "name": "Winter Melon",
+    "category": "Melons",
+    "image": "../../../landing/img/fruite-item-26.jpg",
+    "pricePerKg": 18.99,
+    "description": "Mild and cooling — often used in soups and teas for a refreshing twist."
+  },
+  {
+    "name": "Korean Melon",
+    "category": "Melons",
+    "image": "../../../landing/img/fruite-item-27.jpg",
+    "pricePerKg": 18.99,
+    "description": "Crunchy, sweet, and small — a unique melon with a floral hint."
+  },
+  {
+    "name": "Galia Melon",
+    "category": "Melons",
+    "image": "../../../landing/img/fruite-item-28.jpg",
+    "pricePerKg": 11.99,
+    "description": "Honey-sweet and musky — a flavorful blend of cantaloupe and honeydew."
+  },
+  {
+    "name": "Canary Melon",
+    "category": "Melons",
+    "image": "../../../landing/img/fruite-item-29.jpg",
+    "pricePerKg": 15.99,
+    "description": "Bright yellow outside, smooth and sweet inside — tropical sunshine in a slice."
+  },
+  {
+    "name": "Santa Claus Melon",
+    "category": "Melons",
+    "image": "../../../landing/img/fruite-item-30.jpg",
+    "pricePerKg": 11.99,
+    "description": "Mild, sweet, and long-lasting — the holiday melon for year-round joy."
+  },
+    {
+    "name": "Strawberries",
+    "description": "Lusciously red and naturally sweet — perfect for desserts, smoothies, or fresh indulgence.",
+    "pricePerKg": 7.99,
+    "unit": "kg",
+    "category": "Berries",
+    "image": "../../../landing/img/fruite-item-31.jpg"
+  },
+  {
+    "name": "Blueberries",
+    "description": "Tiny, mighty, and packed with sweetness — a superfruit for any time of day.",
+    "pricePerKg": 11.99,
+    "unit": "kg",
+    "category": "Berries",
+    "image": "../../../landing/img/fruite-item-32.jpg"
+  },
+  {
+    "name": "Raspberries",
+    "description": "Delicately sweet with a hint of tart — nature’s perfect pop of flavor and color.",
+    "pricePerKg": 11.99,
+    "unit": "kg",
+    "category": "Berries",
+    "image": "../../../landing/img/fruite-item-2.jpg"
+  },
+  {
+    "name": "Blackberries",
+    "description": "Bold, juicy, and rich in antioxidants — perfect for snacking or baking.",
+    "pricePerKg": 11.99,
+    "unit": "kg",
+    "category": "Berries",
+    "image": "../../../landing/img/fruite-item-33.jpg"
+  },
+  {
+    "name": "Cranberries",
+    "description": "Mild, sweet, and long-lasting — the holiday melon for year-round joy.",
+    "pricePerKg": 13.99,
+    "unit": "kg",
+    "category": "Berries",
+    "image": "../../../landing/img/fruite-item-34.jpg"
+  },
+  {
+    "name": "Gooseberries",
+    "description": "Tangy and unique — a punchy little berry packed with flavor.",
+    "pricePerKg": 11.59,
+    "unit": "kg",
+    "category": "Berries",
+    "image": "../../../landing/img/fruite-item-35.jpg"
+  },
+  {
+    "name": "Mulberries",
+    "description": "Sweet and soft — a juicy treat often found in jams and pies.",
+    "pricePerKg": 11.99,
+    "unit": "kg",
+    "category": "Berries",
+    "image": "../../../landing/img/fruite-item-36.png"
+  },
+  {
+    "name": "Acai Berries",
+    "description": "Earthy, nutrient-rich, and smoothie-ready — a trendy superfood with ancient roots.",
+    "pricePerKg": 4.99,
+    "unit": "kg",
+    "category": "Berries",
+    "image": "../../../landing/img/fruite-item-37.jpg"
+  }
+]

@@ -1,0 +1,13 @@
+      .fruite-img {
+                height: 250px; /* Adjust height as needed */
+                overflow: hidden;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+            }
+
+            .fruite-img img {
+                height: 100%;
+                width: auto;
+                object-fit: cover;
+            }
