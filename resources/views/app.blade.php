@@ -28,6 +28,9 @@
 
         <!-- Template Stylesheet -->
         <link href="../../../landing/css/style.css" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css?family=Nunito:200,200i,300,300i,400,400i,600,600i,700,700i,800,800i,900,900i" rel="stylesheet">
+
+    
 
         <!-- Scripts -->
         @routes
@@ -45,7 +48,12 @@
     <script src="../../../landing/lib/waypoints/waypoints.min.js"></script>
     <script src="../../../landing/lib/lightbox/js/lightbox.min.js"></script>
     <script src="../../../landing/lib/owlcarousel/owl.carousel.min.js"></script>
-
-    <!-- Template Javascript -->
+   <!-- Template Javascript -->
     <script src="../../../landing/js/main.js"></script>
+    
+    <script src="../../../dashboard/vendor/jquery/jquery.min.js"></script>
+    <script src="../../../dashboard/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <script src="../../../dashboard/vendor/jquery-easing/jquery.easing.min.js"></script>
+    <script src="../../../dashboard/js/sb-admin-2.min.js"></script>
+    
 </html>

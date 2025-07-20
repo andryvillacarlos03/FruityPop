@@ -66,7 +66,7 @@ const Nav = () => {
                   </Link>
                 </div>
               </div>
-              <Link href={route("page.contact")} className="nav-item nav-link">
+              <Link href={route("page.contact")} className={`nav-item nav-link ${route().current('page.contact') ? 'active' : ''}`}>
                 Contact
               </Link>
             </div>
@@ -88,9 +88,12 @@ const Nav = () => {
                   3
                 </span>
               </a>
-              <a href="#" className="my-auto">
-                <i className="fas fa-user fa-2x"></i>
+              <a href="#" >
+          
               </a>
+              <Link href={route('login')} className="my-auto">
+                <i className="fas fa-user fa-2x"></i>
+              </Link>
             </div>
           </nav>
         </div>
