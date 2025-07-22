@@ -23,6 +23,7 @@
         "vite": "^6.2.4"
     },
     "dependencies": {
+        "bootstrap": "^5.3.7",
         "react-owl-carousel": "^2.3.3",
         "swiper": "^11.2.10",
         "ziggy-js": "^2.5.3"

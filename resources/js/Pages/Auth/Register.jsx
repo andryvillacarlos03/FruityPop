@@ -1,7 +1,6 @@
 import { Head, Link, useForm } from '@inertiajs/react';
 import { useEffect, useState } from 'react';
-import '../../../../public/dashboard/css/sb-admin-2.min.css';
-import '../../../../public/dashboard/vendor/fontawesome-free/css/all.min.css';
+
 
 export default function Register() {
     const { data, setData, post, processing, errors, reset } = useForm({
@@ -148,7 +147,10 @@ export default function Register() {
 
     return (
         <>
-            <Head title="Register Account" />
+                 <Head title="Register">
+                   <link href="/dashboard_data/css/sb-admin-2.min.css" rel="stylesheet" />
+                   <link href="/dashboard_data/vendor/fontawesome-free/css/all.min.css" rel="stylesheet" />
+                </Head>
 
             <div className="main-con">
                 <a href={route('login')} className="btn btn-dark btn-back mb-3">
