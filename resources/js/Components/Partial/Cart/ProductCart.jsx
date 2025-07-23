@@ -1,5 +1,6 @@
 import React from 'react';
-
+import {route} from 'ziggy-js';
+import { Link } from '@inertiajs/react';
 const ProductCart = () => {
   return (
     <div className="container-fluid py-5">
@@ -129,12 +130,12 @@ const ProductCart = () => {
                 <h5 className="mb-0 ps-4 me-4">Total</h5>
                 <p className="mb-0 pe-4">$99.00</p>
               </div>
-              <button
-                className="btn border-secondary rounded-pill px-4 py-3 text-primary text-uppercase mb-4 ms-4"
-                type="button"
-              >
+              <Link href={route('page.checkout')}  className="btn border-secondary rounded-pill px-4 py-3 text-primary text-uppercase mb-4 ms-4"
+                >
+               
+              
                 Proceed Checkout
-              </button>
+              </Link>
             </div>
           </div>
         </div>
