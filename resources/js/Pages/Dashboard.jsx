@@ -1,5 +1,6 @@
 import AuthenticatedLayout from '@/Layouts/AuthenticatedLayout';
 import { Head } from '@inertiajs/react';
+import BtnLogout from '@/Components/Partial/ButtonLogout';
 
 export default function Dashboard() {
     return (
@@ -21,6 +22,7 @@ export default function Dashboard() {
                     </div>
                 </div>
             </div>
+            <BtnLogout/>
         </AuthenticatedLayout>
     );
 }

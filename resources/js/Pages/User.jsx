@@ -1,4 +1,4 @@
-
+import BtnLogout from "@/Components/Partial/ButtonLogout";
 const User = ()=> {
     return(
 
@@ -6,6 +6,7 @@ const User = ()=> {
         <>
         
          <h1>User</h1>
+         <BtnLogout/>
         </>
     );
 }
